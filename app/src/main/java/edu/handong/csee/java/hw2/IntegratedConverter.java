@@ -1,5 +1,5 @@
 package edu.handong.csee.java.hw2;
-
+//Just for commit
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
